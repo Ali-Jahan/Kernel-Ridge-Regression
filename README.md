@@ -1,1 +1,2 @@
-# Kernel-Ridge-Regression
+# Kernel-Ridge-Regression and BootStrap on Synthetic data
+
